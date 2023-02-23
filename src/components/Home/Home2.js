@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, C#, Java, Javascript and Python. </b>
+                <b className="purple">C#, PHP, Java, Javascript and Python. </b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  BIG DATA, AI and machine learning.
+                  AI, and Business Intelligence.
                 </b>
               </i>
               <br />
@@ -48,7 +48,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and .net with Angular</b>
+                <b className="purple"> React.js and Angular with Spring</b>
               </i>
             </p>
           </Col>
